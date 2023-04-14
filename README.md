@@ -1,4 +1,4 @@
-# DataframeFormatting
+# SCdataframeFormatter
 This is a package that uses stylers in order to format pandas dataframes, it was uploaded on PyPi
 
 Python program is available [here](https://github.com/SimoneCallegarin/DataframeFormatting/blob/main/src/SCdataframeFormatter/dfFormatter.py)
